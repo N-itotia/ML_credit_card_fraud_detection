@@ -7,4 +7,4 @@ This project involves building a Logistic Regression model to detect fraudulent 
 	•	Model Training: Implemented Logistic Regression with hyperparameter tuning to improve convergence.
 	•	Evaluation: Achieved high accuracy in detecting fraud, leveraging advanced techniques like feature scaling and solver optimization.
 
-This repository includes the dataset, Jupyter notebooks with detailed code and analysis, and evaluation metrics.
+The data was acquired from Kaggels credit card fraud detection challenge
